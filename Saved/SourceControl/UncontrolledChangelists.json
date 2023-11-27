@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Levels/Main.umap",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/BP_Tile.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/BP_TIleMap.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Structures/S_TileInfo.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/BP_Points.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Enum/E_PointType.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Structures/S_PointInfo.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/BP_ObjectSpawner.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/GameModeBoard.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Enum/E_TileState.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Items/BP_Points.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Items/BP_BaseItem.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Pawn/BP_Pawn.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Pawn/BP_PlayerStart.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Blueprints/Pawn/BP_Player.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Materials/M_TilePlatform.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Items/BP_LandMine.uasset",
+				"C:/Users/plato/Documents/Unreal Projects/GDproject/Content/Materials/M_Pixelization_PP.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		}
+	]
+}
